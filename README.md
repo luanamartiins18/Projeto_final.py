@@ -23,7 +23,7 @@ Eduardo Meira Machado - 21906461
    # Executar o comando no terminal: 
       git clone https://github.com/pedr0o7/Projeto_final.py.git
 - Encontrar o Executável do python em sua máquina.
-- Depois, encontrar o script .py presente na pasta Projeto_final.py-master \
+- Depois, encontrar o script .py presente na pasta Projeto_final.py-master. 
 - Colocar o endereço do python no terminal entre aspas e depois um espaço e o endereço do arquivo .py.
 Exemplo (No meu Caso): \
             "C:\Users\pedro.rafael\PycharmProjects\untitled\venv\Scripts\python.exe" C:\Users\pedro.rafael\Downloads\Projeto_final.py-master\Projeto_final.py-master\Projeto_final.py
