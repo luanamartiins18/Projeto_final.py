@@ -1,5 +1,5 @@
-# Projeto_final.py# Projeto_final.py
-Projeto final de sistema operacional l.
+# Projeto_final.py
+Projeto final de sistema operacional l.\
 alunos e RA:                                                                         
 Pedro Rafael Faria - 21907590
 Luana Dias Martins - 21903677
