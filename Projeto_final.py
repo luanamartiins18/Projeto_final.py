@@ -1,4 +1,4 @@
-import threading as 
+import threading as _
 
 
 class Conta(object):
