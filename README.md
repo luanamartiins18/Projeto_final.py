@@ -18,13 +18,8 @@ Eduardo Meira Machado - 21906461
      # Executar comando:
            python(versao) Projeto_final.py para executar o script 
 # caso seja no windws:
-- baixe o programa zipado em clone or dowload 
-- extrair o programa .zip gerando a pasta Projeto_final.py-master 
-   # Executar o comando no terminal: 
-      git clone https://github.com/pedr0o7/Projeto_final.py.git
-- Encontrar o Executável do python em sua máquina 
-- Depois, encontrar o script .py presente na pasta Projeto_final.py-master 
-- Colocar o endereço do python no terminal entre aspas e depois um espaço e o endereço do arquivo .py 
-Exemplo (No meu Caso): \
-            "C:\Users\pedro.rafael\PycharmProjects\untitled\venv\Scripts\python.exe" C:\Users\pedro.rafael\Downloads\Projeto_final.py-master\Projeto_final.py-master\Projeto_final.py
-- Depois, deve clicar na tecla ENTER, e o script irá rodar 
+- Use o código "mkdir" para criar uma pasta, com qualquer nome.
+- Use o comando "cd (nome da pasta) " para entara na pasta.
+- Coloque no terminal o código "git clone https://github.com/pedr0o7/Projeto_final.py.git
+- Use o  comando "cd Projeto_final.py".
+- Execute o código: "python Projeto_final.py".
