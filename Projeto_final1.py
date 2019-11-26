@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
     aleatorio = 10
 
-    for a in range(0, 10):
+    for a in range(0, 100):
         thread = _.Thread(target=cliente1.transfere, args=(cliente2, lock))
         thread.start()
 
