@@ -14,6 +14,6 @@ Eduardo Meira Machado - 21906461\
      # Executar no terminal:\
           git clone https://github.com/pedr0o7/Projeto_final.py.git
      # Executar comando:\
-           cd Sistemas-Operacionais.(nome do diretório).
+           cd Projeto_final.py
      # Executar comando:\
            python Projeto_final.py para executar o script.
