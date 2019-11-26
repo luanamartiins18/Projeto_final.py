@@ -6,7 +6,7 @@ Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
 # como executar:
 - Abra o terminal
-# caso seja no linox:
+# caso seja no linux:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
             mkdir pasta_nome 
 - Usar o comando cd para entrar na pasta criada, Exemplo:
