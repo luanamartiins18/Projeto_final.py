@@ -5,7 +5,7 @@ Pedro Rafael Faria - 21907590 \
 Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
 # como executar
--Abra o terminal.
+- Abra o terminal.
 # caso seja no linox:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
             mkdir pasta_nome
