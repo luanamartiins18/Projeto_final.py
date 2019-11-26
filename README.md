@@ -4,3 +4,16 @@ alunos e RA:\
 Pedro Rafael Faria - 21907590\
 Luana Dias Martins - 21903677\
 Eduardo Meira Machado - 21906461\
+# como executar\
+-Abra o terminal.\
+# caso seja no linox:\
+- Usar o comando mkdir para criar uma pasta, Exemplo:\
+            mkdir pasta_nome
+- Usar o comando cd para entrar na pasta criada, Exemplo:\
+            cd pasta_nome.
+     # Executar no terminal:\
+          git clone https://github.com/pedr0o7/Projeto_final.py.git
+     # Executar comando:\
+           cd Sistemas-Operacionais.(nome do diretório).
+     # Executar comando:\
+           python Projeto_final.py para executar o script.
