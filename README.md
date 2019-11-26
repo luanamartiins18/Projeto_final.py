@@ -4,7 +4,7 @@ alunos e RA:
 Pedro Rafael Faria - 21907590 \
 Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
-# como executar
+# como executar:
 - Abra o terminal.
 # caso seja no linox:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
@@ -18,8 +18,8 @@ Eduardo Meira Machado - 21906461
      # Executar comando:
            python Projeto_final.py para executar o script
 # caso seja no windws:
-- baixe o programa zipado em clone or dowload. \
-- extrair o programa .zip gerando a pasta Projeto_final.py-master
+- baixe o programa zipado em clone or dowload. 
+- extrair o programa .zip gerando a pasta Projeto_final.py-master.
    # Executar o comando no terminal: 
       git clone https://github.com/pedr0o7/Projeto_final.py.git
 - Encontrar o Executável do python em sua máquina.
