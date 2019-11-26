@@ -18,8 +18,8 @@ Eduardo Meira Machado - 21906461
      # Executar comando:
            python Projeto_final.py para executar o script
 # caso seja no windws:
--baixe o programa zipado em clone or dowload.
--extrair o programa .zip gerando a pasta Projeto_final.py-master
+- baixe o programa zipado em clone or dowload.\
+- extrair o programa .zip gerando a pasta Projeto_final.py-master
    # Executar o comando no terminal: 
       git clone https://github.com/LuizFrL/Sistemas-Operacionais
 - Encontrar o Executável do python em sua máquina.
