@@ -1,8 +1,8 @@
 # Projeto_final.py
 Projeto final de sistema operacional l.\
 alunos e RA:                                                                         
-Pedro Rafael Faria - 21907590
-Luana Dias Martins - 21903677
+Pedro Rafael Faria - 21907590 \
+Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
 # como executar
 -Abra o terminal.
