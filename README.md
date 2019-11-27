@@ -7,9 +7,9 @@ Eduardo Meira Machado - 21906461
 # Partindo do pressuposto:
 - github instalado no seu notebook/PC 
 - python instalado no seu notebook/PC
-# como executar:
+# Como executar:
 - Abra o terminal
-# caso seja no linux:
+# Caso seja no linux:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
             mkdir nome 
 - Usar o comando cd para entrar na pasta criada, Exemplo:
@@ -22,8 +22,9 @@ Eduardo Meira Machado - 21906461
             python(versao) Projeto_final.py 
 # Aperte enter para rodar.
 
+_________________________________________________________________________________________________
 
-# caso seja no windws:
+# Caso seja no windws:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
             mkdir nome
 - Usar o comando cd para entrar na pasta criada, Exemplo:
