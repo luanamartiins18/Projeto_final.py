@@ -5,7 +5,7 @@ Pedro Rafael Faria - 21907590 \
 Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
 # Partindo do pressuposto:
-- github instalado no seu notebook/PC \
+- github instalado no seu notebook/PC 
 - python instalado no seu notebook/PC
 # como executar:
 - Abra o terminal
