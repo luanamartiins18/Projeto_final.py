@@ -11,7 +11,7 @@ Eduardo Meira Machado - 21906461
 - Abra o terminal
 # caso seja no linux:
 - Usar o comando mkdir para criar uma pasta, Exemplo:
-            mkdir pasta_nome 
+            mkdir nome 
 - Usar o comando cd para entrar na pasta criada, Exemplo:
             cd pasta_nome 
      # Executar no terminal:
@@ -19,10 +19,19 @@ Eduardo Meira Machado - 21906461
      # Executar comando:
            cd Projeto_final.py 
      # Executar comando:
-           python(versao) Projeto_final.py para executar o script 
+            python(versao) Projeto_final.py 
+# Aperte enter para rodar.
+
+
 # caso seja no windws:
-- Use o código "mkdir" para criar uma pasta, com qualquer nome.
-- Use o comando "cd (nome da pasta) " para entara na pasta.
-- Coloque no terminal o código "git clone https://github.com/pedr0o7/Projeto_final.py.git
-- Use o  comando "cd Projeto_final.py".
-- Execute o código: "python Projeto_final.py".
+- Usar o comando mkdir para criar uma pasta, Exemplo:
+            mkdir nome
+- Usar o comando cd para entrar na pasta criada, Exemplo:
+            cd nome 
+     # Executar no terminal:
+            git clone https://github.com/pedr0o7/Projeto_final.py.git
+     # Executar comando:
+            cd Projeto_final.py
+     # Executar comando:
+            python Projeto_final.py
+# Aperte enter para rodar.
