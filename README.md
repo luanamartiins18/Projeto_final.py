@@ -34,5 +34,5 @@ ________________________________________________________________________________
      # Executar comando:
             cd Projeto_final.py
      # Executar comando:
-            python Projeto_final.py
+            py Projeto_final.py
 # Aperte enter para rodar.
