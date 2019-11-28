@@ -6,7 +6,7 @@ Luana Dias Martins - 21903677 \
 Eduardo Meira Machado - 21906461
 # Partindo do pressuposto:
 - github instalado no seu notebook/PC  https://git-scm.com/downloads
-- python instalado no seu notebook/PC
+ - python instalado no seu notebook/PC https://www.python.org/downloads/  
 # Como executar:
 - Abra o terminal
 # Caso seja no linux:
